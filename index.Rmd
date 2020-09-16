@@ -1,6 +1,6 @@
 ---
 title: "PF-0953 Programación geoespacial en R<br>Tarea 02: R - Graficación"
-author: "Manuel Vargas"
+author: "Priscilla Obando R."
 date: "2020-09-16"
 output:
   html_document:
@@ -59,7 +59,7 @@ ca_covid19
 2. (10%) Genere un resumen de los datos con la función  ```summary() ```.
 
 ```{r}
-
+summary (ca_covid19)
 ```
 
 3. Genere gráficos de barras de los casos positivos (20%), recuperados (20%), activos (20%) y fallecidos (20%).
